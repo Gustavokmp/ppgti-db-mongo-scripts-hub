@@ -7,6 +7,7 @@ Este repositório contém scripts utilizados para a disciplina de Banco de Dados
   - [Dump MongoDB](#dump-mongodb)
 - [Pastas e Consultas](#pastas-e-consultas)
   - [Total-de-Locais-por-Bairro](/Total-de-Locais-por-Bairro)
+  - [Exibir Todos os Locais que Têm Eventos](/Exibir-Todos-os-Locais-que-Tem-Eventos)
   - [Eventos-em-Agosto-de-2023](/Eventos-em-agosto-de-2023)
   - [Locais-Proximos-a-uma-Coordenada-Especifica](/Locais-proximos-a-uma-coordenada-especifica)
   - [Restaurantes-Dentro-de-um-Raio-de-5-km](/Restaurantes-dentro-de-um-raio-de-5-km)
